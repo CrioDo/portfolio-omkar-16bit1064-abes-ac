@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio-omkar-16bit1064-abes-ac/static/css/main.5db1380d.chunk.css",
+    "main.js": "/portfolio-omkar-16bit1064-abes-ac/static/js/main.3c01315e.chunk.js",
+    "main.js.map": "/portfolio-omkar-16bit1064-abes-ac/static/js/main.3c01315e.chunk.js.map",
+    "runtime-main.js": "/portfolio-omkar-16bit1064-abes-ac/static/js/runtime-main.32d76133.js",
+    "runtime-main.js.map": "/portfolio-omkar-16bit1064-abes-ac/static/js/runtime-main.32d76133.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/portfolio-omkar-16bit1064-abes-ac/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.8e0d2b32.chunk.js": "/portfolio-omkar-16bit1064-abes-ac/static/js/2.8e0d2b32.chunk.js",
+    "static/js/2.8e0d2b32.chunk.js.map": "/portfolio-omkar-16bit1064-abes-ac/static/js/2.8e0d2b32.chunk.js.map",
+    "index.html": "/portfolio-omkar-16bit1064-abes-ac/index.html",
+    "precache-manifest.90b3b9b70f1178db5f34cf3501f52f6a.js": "/portfolio-omkar-16bit1064-abes-ac/precache-manifest.90b3b9b70f1178db5f34cf3501f52f6a.js",
+    "service-worker.js": "/portfolio-omkar-16bit1064-abes-ac/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/portfolio-omkar-16bit1064-abes-ac/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/portfolio-omkar-16bit1064-abes-ac/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.8e0d2b32.chunk.js.LICENSE.txt": "/portfolio-omkar-16bit1064-abes-ac/static/js/2.8e0d2b32.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/portfolio-omkar-16bit1064-abes-ac/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/portfolio-omkar-16bit1064-abes-ac/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32d76133.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.8e0d2b32.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.3c01315e.chunk.js"
+  ]
+}
